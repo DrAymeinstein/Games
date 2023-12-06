@@ -1,3 +1,6 @@
+// Paper Sissors Rock game in C++ by DrAymeinstein
+// 5/12/2023
+
 #include <iostream>
 #include <random>
 #include <cstdlib>
